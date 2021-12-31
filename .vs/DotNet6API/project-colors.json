@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "23763531-9724-457e-a154-a27c428890ff": {
+      "ProjectGuid": "23763531-9724-457e-a154-a27c428890ff",
+      "DisplayName": "DotNet6API",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
